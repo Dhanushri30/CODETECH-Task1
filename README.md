@@ -36,3 +36,5 @@ Division by Zero:
 If the user chooses '4' for division and enters 10 and 0, the program will output: 10.0 / 0.0 = Error! Division by zero.
 Conclusion:
 The code is a simple, user-friendly calculator that provides essential arithmetic functions with basic error handling, making it a good starting point for beginners learning Python.
+![image](https://github.com/user-attachments/assets/f860e5ac-8f3e-43b1-b122-3a5a14169354)
+
